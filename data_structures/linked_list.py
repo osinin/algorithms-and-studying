@@ -31,6 +31,6 @@ class LinkedList:
 
 ll = LinkedList()
 ll.insert_at_beginning("done")
-#ll.insert_at_beginning("mix")
-#ll.insert_at_beginning("prepare")
+ll.insert_at_beginning("mix")
+ll.insert_at_beginning("prepare")
 ll.print_list()
